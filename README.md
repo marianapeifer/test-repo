@@ -5,3 +5,8 @@ Testing the creation of a repo in Rstudio (beginner in git)
 
 # Try2. -> this demands a lot of study!
 #Line added from Github (exercise 3) 
+
+
+
+
+#Issue fixing!
